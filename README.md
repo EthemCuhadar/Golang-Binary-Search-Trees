@@ -70,7 +70,7 @@ fmt.Println("300", tree.Search(300))
 99 false
 300 false
 ```
-In this implementation, only the root struct can be seen. However, it can be implemented to show all values of nodes via slice or array.
+* In this implementation, only the root struct can be seen. However, it can be implemented to show all values of nodes via slice or array.
 --------------------------------------------------------
 ### License
 MIT
